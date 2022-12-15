@@ -1,3 +1,0 @@
-# ZaremkovPeter_ivr
-
-Создан
